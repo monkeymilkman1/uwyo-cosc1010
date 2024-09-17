@@ -1,12 +1,10 @@
-# Your Name Here
+# Colin Rice
 # UWYO COSC 1010
-# Submission Date
+# 17SEP2024
 # Lab 02 
-# Lab Section: 
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Lab Section: 10 
+# Sources, people worked with, help given to: N/A
+# This is my completion of Lab 02 for COSC1010.
 
 your_variable_here = "when you see this, replace it with your code"
 
